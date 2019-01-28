@@ -1,0 +1,14 @@
+C:\Users\Szymon\source\repos\ZadanieZalicz\ZadanieZalicz\bin\Debug\ZadanieZalicz.exe.config
+C:\Users\Szymon\source\repos\ZadanieZalicz\ZadanieZalicz\bin\Debug\ZadanieZalicz.exe
+C:\Users\Szymon\source\repos\ZadanieZalicz\ZadanieZalicz\bin\Debug\ZadanieZalicz.pdb
+C:\Users\Szymon\source\repos\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.csprojAssemblyReference.cache
+C:\Users\Szymon\source\repos\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.exe
+C:\Users\Szymon\source\repos\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.pdb
+C:\Users\Szymon\Source\Repos\NewRepo\ZadanieZalicz\ZadanieZalicz\bin\Debug\ZadanieZalicz.exe.config
+C:\Users\Szymon\Source\Repos\NewRepo\ZadanieZalicz\ZadanieZalicz\bin\Debug\ZadanieZalicz.exe
+C:\Users\Szymon\Source\Repos\NewRepo\ZadanieZalicz\ZadanieZalicz\bin\Debug\ZadanieZalicz.pdb
+C:\Users\Szymon\Source\Repos\NewRepo\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.csprojAssemblyReference.cache
+C:\Users\Szymon\Source\Repos\NewRepo\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Source\Repos\NewRepo\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.exe
+C:\Users\Szymon\Source\Repos\NewRepo\ZadanieZalicz\ZadanieZalicz\obj\Debug\ZadanieZalicz.pdb
